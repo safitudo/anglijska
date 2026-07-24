@@ -2,13 +2,6 @@
 
 **Про що:** файний ресторан біля води в Нафпліо. За спиною сина — дві жінки і ЦІЛИЙ томагавк. Він говорив про це весь вечір. 
 
-**Корисні фрази для тата:** waiter (офіціант), bone (кістка), plate (тарілка), empty (порожня), Who cares?! (кого це хвилює?!), How could they eat it?! (як вони його з'їли?!)
-
-**Style:**
-```
-Dramatic Argentine tango, passionate theatrical male vocals, accordion and violin, comedic intensity with dramatic pauses
-```
-
 **Lyrics:**
 ```
 [Intro] (violin, low spoken)
@@ -39,8 +32,8 @@ How could they eat it? HOW COULD THEY EAT IT?!
 ...They ate it all. They ate it ALL!
 
 [Verse 3]
-My son says, "Dad, your fish is getting cold."
-My fish? WHO CARES about my fish?!
+My son says, "Dad, your dinner is getting cold."
+My dinner? WHO CARES about my dinner?!
 Behind you, son, a miracle is happening —
 two women versus one ENORMOUS dish!
 
@@ -97,8 +90,8 @@ Nobody knows... nobody knows...
 ...Вони з'їли все. З'ЇЛИ ВСЕ!
 
 [Куплет 3]
-Син каже: «Тату, твоя риба холоне».
-Риба? КОГО ХВИЛЮЄ моя риба?!
+Син каже: «Тату, твоя вечеря холоне».
+Вечеря? КОГО ХВИЛЮЄ моя вечеря?!
 За тобою, сину, відбувається диво —
 дві жінки проти однієї ВЕЛЕТЕНСЬКОЇ страви!
 
@@ -107,6 +100,8 @@ Nobody knows... nobody knows...
 без поспіху... зі сміхом... з келихом вина...
 Через годину — клянусь, я сам бачив —
 тарілка порожня. Кістка ЧИСТА.
+
+[Приспів]
 
 [Брідж] (повільне танго)
 Тієї ночі я не міг заснути.
