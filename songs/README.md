@@ -5,6 +5,10 @@ American English** with simple vocabulary — real songs first, learning materia
 second. Tracks 3 and 4 are the current standard (rewritten after test generations);
 each file lists a few useful phrases with Ukrainian gloss.
 
+Every file ends with a **«Переклад українською (для тата)»** section — a full
+line-by-line Ukrainian mirror of the lyrics, ready to copy-paste and send to dad
+as a transcript alongside the track.
+
 Lessons from Suno test runs: spoken Ukrainian ad-libs generate badly — cut them
 (removed from tracks 3–4; delete from the other tracks' lyrics if they misbehave).
 Choppy telegraphic lines sound dull; counting refrains, chants, and repeated
