@@ -1,10 +1,14 @@
 # «Тато в Європі» — 7 songs for Suno
 
-Comedy album about the real Warsaw → Greece trip. Simple **correct** English (not
-caveman): content words come from dad's 200-word deck; grammar glue (`the, a, is,
-are, don't, says, to`) is what makes it English. Each song lists its few **bonus
-words** (with Ukrainian gloss) — real vocabulary he'll actually want (beer, cognac,
-clouds, tomahawk...). One spoken Ukrainian ad-lib per song = the running gag.
+Comedy album about the real Warsaw → Greece trip. Lyrics are **natural, fluent
+American English** with simple vocabulary — real songs first, learning material
+second. Tracks 3 and 4 are the current standard (rewritten after test generations);
+each file lists a few useful phrases with Ukrainian gloss.
+
+Lessons from Suno test runs: spoken Ukrainian ad-libs generate badly — cut them
+(removed from tracks 3–4; delete from the other tracks' lyrics if they misbehave).
+Choppy telegraphic lines sound dull; counting refrains, chants, and repeated
+hook lines come out great.
 
 ## How to generate in Suno
 
