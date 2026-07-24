@@ -1,103 +1,97 @@
 # 3. SEVENTEEN THOUSAND STEPS
 
-**Про що:** той день у Варшаві, коли ви пройшли 17 000 кроків. Марш, який поступово вмирає.
+**Про що:** той день у Варшаві, коли ви пройшли 17 000 кроків.
 
-**Корисні фрази для тата:** a little walk (маленька прогулянка), old man (старий), We're almost there (ми майже прийшли), We made it! (ми дійшли!), still alive (досі живий)
+**Бонусні слова:** steps (кроки), son (син), seventeen (сімнадцять)
 
-**Style:**
 ```
-Epic orchestral military march with heavy drums and male choir chants, starts powerful and gradually slows down comedically exhausted, big triumphant finale
-```
-
-**Lyrics:**
-```
-[Intro] (drums, spoken)
-Warsaw. Early morning.
-My son says, "Let's take a little walk."
-A little walk.
-...Remember those words.
+[Intro] (drums)
+(spoken) Warsaw. Morning.
+My son says: today we walk!
+I say: okay. A small walk.
 
 [Verse 1] (strong march)
-One hundred steps — the sun is out!
-One thousand steps — we're marching proud!
-"A little walk" — that's what he said!
-Two thousand steps — I need some bread!
+One hundred steps! Two hundred!
+The morning is good! Warsaw, I come!
+One thousand steps! Okay! Good!
+Two thousand! ...Where is breakfast?!
 
 [Verse 2]
 Four thousand steps — we eat. We go!
 Six thousand steps — we eat again!
-Eight thousand steps — my phone says, "STOP."
-My son says, "Come on! Move it, old man!"
+Eight thousand — my phone says: STOP.
+My son says: no! Come! We go!
 
 [Chorus] (big)
 SEVENTEEN THOUSAND STEPS! (left! right! left! right!)
 SEVENTEEN THOUSAND STEPS!
-My phone keeps asking, "Who IS this guy?!"
-Seventeen thousand — and still alive!
+My phone says: who ARE you today?!
+I say: I don't know! I WALK!
 
 [Verse 3] (tired, slowing)
-Twelve thousand steps... I'm slowing down...
-I see a taxi cross the town...
-I raise my hand — my son says, "No!
-We're almost there!" ...He said that an hour ago.
+Twelve thousand... slowly... slowly...
+I see a taxi. I say: TAXI!
+My son says: NO. We walk.
+(spoken, gasping) Я тобі це запам'ятаю...
 
 [Bridge] (barely alive, then rising)
 Fifteen thousand... I want my bed...
 Sixteen thousand... I want my beer...
 Seventeen thousand — THE HOTEL!
-WE MADE IT! WE MADE IT! WE'RE HERE!
+I SEE THE HOTEL! WE ARE HERE!
 
 [Chorus]
 
-[Outro] (calm, proud, quiet drums)
-The city sleeps. My feet are done.
-My phone glows in the dark: seventeen thousand.
-Not bad, old man. Not bad at all.
-...Tomorrow, son — we take the bus.
+[Outro] (calm, proud)
+Night. The bed is good. Very good.
+My phone says: seventeen thousand steps.
+I say... yes. I do it. Me!
+Tomorrow? The bus. The bus, please.
 ```
 
 ## Переклад українською (для тата)
 
 ```
-[Вступ] (барабани, говорить)
-Варшава. Ранній ранок.
-Син каже: «Давай трохи прогуляємось».
-Трохи прогуляємось.
-...Запам'ятайте ці слова.
+[Вступ] (барабани)
+(говорить) Варшава. Ранок.
+Син каже: сьогодні ми гуляємо!
+Я кажу: добре. Маленька прогулянка.
 
 [Куплет 1] (бадьорий марш)
-Сто кроків — сонце вийшло!
-Тисяча кроків — крокуємо гордо!
-«Трохи прогуляємось» — так він сказав!
-Дві тисячі кроків — мені треба хліба!
+Сто кроків! Двісті!
+Ранок гарний! Варшаво, я йду!
+Тисяча кроків! Окей! Добре!
+Дві тисячі! ...Де сніданок?!
 
 [Куплет 2]
-Чотири тисячі кроків — ми їмо. Йдемо далі!
+Чотири тисячі кроків — ми їмо. Йдемо!
 Шість тисяч кроків — знову їмо!
-Вісім тисяч — телефон каже: «СТОП».
-Син каже: «Давай! Ворушись, старий!»
+Вісім тисяч — телефон каже: СТОП.
+Син каже: ні! Давай! Ідемо!
 
-[Приспів]
-СІМНАДЦЯТЬ ТИСЯЧ КРОКІВ! (лівою! правою!)
+[Приспів] (потужно)
+СІМНАДЦЯТЬ ТИСЯЧ КРОКІВ! (лівою! правою! лівою! правою!)
 СІМНАДЦЯТЬ ТИСЯЧ КРОКІВ!
-Телефон усе питає: «Це взагалі ХТО?!»
-Сімнадцять тисяч — а я досі живий!
+Телефон питає: хто ти сьогодні ВЗАГАЛІ?!
+Я кажу: не знаю! Я ЙДУ!
 
 [Куплет 3] (втомлено, повільніше)
-Дванадцять тисяч... я сповільнююсь...
-Бачу таксі через дорогу...
-Піднімаю руку — син каже: «Ні!
-Ми майже прийшли!» ...Він казав це годину тому.
+Дванадцять тисяч... повільно... повільно...
+Бачу таксі. Кажу: ТАКСІ!
+Син каже: НІ. Ми йдемо пішки.
+(говорить, задихаючись) Я тобі це запам'ятаю...
 
 [Брідж] (ледь живий, потім підйом)
 П'ятнадцять тисяч... хочу в ліжко...
 Шістнадцять тисяч... хочу пива...
 Сімнадцять тисяч — ГОТЕЛЬ!
-МИ ДІЙШЛИ! МИ ДІЙШЛИ! МИ ТУТ!
+Я БАЧУ ГОТЕЛЬ! МИ ТУТ!
+
+[Приспів]
 
 [Фінал] (спокійно, гордо)
-Місто спить. Ноги відвалюються.
-Телефон світиться в темряві: сімнадцять тисяч.
-Непогано, старий. Зовсім непогано.
-...Завтра, сину, — їдемо автобусом.
+Ніч. Ліжко хороше. Дуже хороше.
+Телефон каже: сімнадцять тисяч кроків.
+Я кажу... так. Я це зробив. Я!
+Завтра? Автобус. Автобус, будь ласка.
 ```
